@@ -26,7 +26,7 @@ experience:
     company: Tulane University
     company_url: ''
     company_logo: 
-    location: California
+    location: New Orleans, LA
     date_start: '2023-08-14'
     date_end: 
     description: 
@@ -35,7 +35,7 @@ experience:
     company: Nanjing University
     company_url: ''
     company_logo: 
-    location: California
+    location: Nanjing, China
     date_start: '2018-09-01'
     date_end: '2022-6-25'
     description: My dissertation was on Multivariate Statistical Analysis.
