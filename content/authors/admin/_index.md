@@ -6,7 +6,7 @@ title: Hao Zhou
 superuser: true
 
 # Role/position
-role: 'Student'
+role: 'Master Student'
 
 # Status emoji
 # status:
