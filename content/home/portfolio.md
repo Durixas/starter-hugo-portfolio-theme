@@ -30,10 +30,8 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Deep Learning
+      tag: DL
 
 design:
   columns: '1'
