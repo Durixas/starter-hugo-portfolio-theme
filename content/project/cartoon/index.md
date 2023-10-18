@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Employment Prediction for Graduates from a Campus
+summary: Developed a model in Python to predict whether students would get placed after graduation based on grades, degree specialization and work experience.
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - ML
+date: 2023-05-03
+external_link: https://github.com/Durixas/Employment-Prediction-for-Graduates
 ---
