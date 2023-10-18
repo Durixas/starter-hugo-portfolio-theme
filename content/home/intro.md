@@ -18,8 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hi, there! I'm **Hao Zhou**, a master student interested in Machine Learning and Deep Learning.
+Hi, there! I'm **Hao Zhou**, a master student interested in Machine Learning, Deep Learning and Data Analytics.
 {style="font-size: 1.2rem; -webkit-background-clip: text; -webkit-text-fill-color: black;"}
-# {style="font-size: 1.2rem; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/starter-hugo-portfolio-theme/about/) and portfolio below.
