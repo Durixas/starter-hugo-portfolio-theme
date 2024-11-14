@@ -38,7 +38,7 @@ experience:
     location: Nanjing, China
     date_start: '2018-09-01'
     date_end: '2022-06-25'
-    description: My dissertation was on Multivariate Statistical Analysis.
+    description: My thesis was on Multivariate Statistical Analysis.
 
 design:
   columns: '1'
